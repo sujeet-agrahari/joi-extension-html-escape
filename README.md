@@ -1,4 +1,4 @@
-# Joi HTML Tags Validator
+# Joi Extension - Sanitize HTML Tags
 
 This repo is an extension to joi validation libraries that validates if any string contains html tags or not, hence preventing XSS attacks.
 
